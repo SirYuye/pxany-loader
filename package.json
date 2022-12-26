@@ -1,5 +1,5 @@
 {
-  "name": "pxany-loader",
+  "name": "@xes/pxany-loader",
   "version": "1.1.1",
   "description": "px/pt/rpx to rem/vw",
   "main": "index.js",
